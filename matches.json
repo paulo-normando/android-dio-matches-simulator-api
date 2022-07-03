@@ -4,7 +4,7 @@
     
     "local": {
         "nome:":"Maracanã",
-        "imagem":"TODO",
+        "imagem":"https://vejario.abril.com.br/wp-content/uploads/2016/11/2918_maracana-pedro-kirilos-riotur.png?w=1022&resize=1200,800",
     },
     "local": {
         "nome:":"Brasil",
@@ -22,7 +22,7 @@
     
     "local": {
         "nome:":"Estádio Centenário",
-        "imagem":"TODO",
+        "imagem":"https://media-manager.noticiasaominuto.com.br/1920/naom_61a0c13750448.jpg",
     },
     "local": {
         "nome:":"Brasil",
@@ -39,8 +39,8 @@
     "descricao":"Eliminatórias Copa 2022",
     
     "local": {
-        "nome:":"Estádio Centenário",
-        "imagem":"TODO",
+        "nome:":"Estádio Maracanã",
+        "imagem":"https://vejario.abril.com.br/wp-content/uploads/2016/11/2918_maracana-pedro-kirilos-riotur.png?w=1022&resize=1200,800",
     },
     "local": {
         "nome:":"Brasil",
