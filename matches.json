@@ -21,24 +21,6 @@
     "descricao":"Eliminatórias Copa 2022",
     
     "local": {
-        "nome:":"Maracanã",
-        "imagem":"TODO",
-    },
-    "local": {
-        "nome:":"Uruguay",
-        "forca":4,
-        "imagem":"imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
-    },
-    "visitante": {
-        "nome:":"Brasil",
-        "forca":5,
-        "imagem":"https://www.bandeirasnacionais.com/data/flags/normal/br.png"
-    }
-  },
-  {
-    "descricao":"Eliminatórias Copa 2022",
-    
-    "local": {
         "nome:":"Estádio Centenário",
         "imagem":"TODO",
     },
